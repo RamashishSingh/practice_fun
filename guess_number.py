@@ -1,5 +1,5 @@
 import sys
-import random
+import random   
 while True:
     try:
         no = int(input('enter your guess   : '))
